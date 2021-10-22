@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @roman-khattak
 - 👀 I’m interested in Software Development, Deployment and Cyber Security
-- 🌱 I’m currently learning Software Development and Cyber Security
-- 💞️ I’m looking to collaborate on Projects in Software Development and Cyber Security
+- 🌱 I’m currently learning Software Development, Deployment and Cyber Security
+- 💞️ I’m looking to collaborate on Projects in Software Development, Deployment and Cyber Security
 - 📫 You can reach me on my email address, "roman.softwareengineer@gmail.com"
 
 <!---
